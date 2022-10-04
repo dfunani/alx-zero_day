@@ -1,2 +1,1 @@
-# alx-zero_day
-ALT X Git Learnings
+My first readme
